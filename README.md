@@ -1,9 +1,13 @@
 ## Description
 
-Ping Pong service backend Framework repository.
-This service is communication application for parent, student, home schooling teacher!
-programming & design specification is located in [here](https://www.notion.so/DND-6-_Team4-7456d5e50713440ab86fa867f5dee453)
-The notion page is work only the time I want to. if you want to know something, please email me!!
+* Ping Pong service backend Framework repository.
+
+* This service is communication application for parent, student, home schooling teacher!
+
+* programming & design specification is located in [here](https://www.notion.so/DND-6-_Team4-7456d5e50713440ab86fa867f5dee453).
+
+* The notion page is work only the time I want to. if you want to know something, please email me!!
+
 
 ## Installation
 - Framework : Nest JS (한국어 공식문서 : [https://docs.nestjs.kr](https://docs.nestjs.kr/))
